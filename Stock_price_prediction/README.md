@@ -1,0 +1,1 @@
+yfinance is a popular open source Python library that provides free access to financial data made available by Yahoo Finance. This library provides a range of functionalities to help you gather and analyze stock information.
